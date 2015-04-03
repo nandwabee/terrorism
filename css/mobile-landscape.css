@@ -1,0 +1,7 @@
+@media all and (max-width: 480px) and (min-width: 321px) {
+  .navigation {
+    height: 50px;
+    background: #CB4133;
+    color: #fff;
+  }
+}
