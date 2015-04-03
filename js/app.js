@@ -8,17 +8,17 @@ SecurityTracker.config(function($stateProvider, $urlRouterProvider) {
         
         .state('home', {
             url: '/',
-            templateUrl: 'partials/home.html'
+            templateUrl: 'http://nandwabee.github.io/terrorism/partials/home.html'
         })
         
         .state('about', {
             url: '/about',
-            templateUrl: 'partials/about.html',
+            templateUrl: 'http://nandwabee.github.io/terrorism/partials/about.html',
         })
         
         .state('code', {
             url: '/code',
-            templateUrl: 'partials/code.html'
+            templateUrl: 'http://nandwabee.github.io/terrorism/partials/code.html'
         });
         
 });
