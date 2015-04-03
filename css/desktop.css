@@ -4,4 +4,13 @@
     background: #CB4133;
     color: #fff;
   }
+  #logo {
+    font-family: Open Sans;
+    font-weight: 900;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 10px;
+    float: left;
+    margin-right: 10px;
+  }
 }
